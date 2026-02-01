@@ -20,5 +20,3 @@ This project is a custom-designed USB-powered LED controller PCB based on the AT
 ✔ PCB routed and DRC clean  
 ✔ 3D visualization verified  
 
-## Preview
-![3D View](Images/PCB_3D_Angle.png)
